@@ -1,0 +1,211 @@
+number of node types to size with: 20
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 8
+memory for eval (GB): 32.0
+execs: 1
+remaining_cpu: 4.91
+remaining_mem: 11.34
+total_cpu_overhead: 1.09
+total_mem_overhead: 4.66
+total_cpu_overhead: 1.09
+total execution cores: 2.0
+overhead ratio, cpu: 0.545
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 16
+memory for eval (GB): 64.0
+execs: 3
+remaining_cpu: 6.890000000000001
+remaining_mem: 7.420000000000002
+total_cpu_overhead: 3.11
+total_mem_overhead: 8.58
+total_cpu_overhead: 3.11
+total execution cores: 6.0
+overhead ratio, cpu: 0.5183333333333333
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 32
+memory for eval (GB): 128.0
+execs: 6
+remaining_cpu: 13.850000000000001
+remaining_mem: 16.58
+total_cpu_overhead: 6.15
+total_mem_overhead: 15.42
+total_cpu_overhead: 6.15
+total execution cores: 12.0
+overhead ratio, cpu: 0.5125000000000001
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 48
+memory for eval (GB): 192.0
+execs: 10
+remaining_cpu: 17.810000000000002
+remaining_mem: 11.300000000000011
+total_cpu_overhead: 10.19
+total_mem_overhead: 20.7
+total_cpu_overhead: 10.19
+total execution cores: 20.0
+overhead ratio, cpu: 0.5095
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 64
+memory for eval (GB): 256.0
+execs: 14
+remaining_cpu: 21.770000000000003
+remaining_mem: 6.02000000000001
+total_cpu_overhead: 14.23
+total_mem_overhead: 25.98
+total_cpu_overhead: 14.23
+total execution cores: 28.0
+overhead ratio, cpu: 0.5082142857142857
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 96
+memory for eval (GB): 384.0
+execs: 21
+remaining_cpu: 32.69
+remaining_mem: 12.45999999999998
+total_cpu_overhead: 21.31
+total_mem_overhead: 35.54
+total_cpu_overhead: 21.31
+total execution cores: 42.0
+overhead ratio, cpu: 0.5073809523809524
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 16
+memory for eval (GB): 30.0
+execs: 1
+remaining_cpu: 12.89
+remaining_mem: 9.46
+total_cpu_overhead: 1.1099999999999999
+total_mem_overhead: 4.54
+total_cpu_overhead: 1.1099999999999999
+total execution cores: 2.0
+overhead ratio, cpu: 0.5549999999999999
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 36
+memory for eval (GB): 60.0
+execs: 3
+remaining_cpu: 26.840000000000003
+remaining_mem: 3.6599999999999966
+total_cpu_overhead: 3.16
+total_mem_overhead: 8.34
+total_cpu_overhead: 3.16
+total execution cores: 6.0
+overhead ratio, cpu: 0.5266666666666667
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 16
+memory for eval (GB): 32.0
+execs: 1
+remaining_cpu: 12.89
+remaining_mem: 11.34
+total_cpu_overhead: 1.1099999999999999
+total_mem_overhead: 4.66
+total_cpu_overhead: 1.1099999999999999
+total execution cores: 2.0
+overhead ratio, cpu: 0.5549999999999999
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 36
+memory for eval (GB): 72.0
+execs: 3
+remaining_cpu: 26.840000000000003
+remaining_mem: 14.939999999999998
+total_cpu_overhead: 3.16
+total_mem_overhead: 9.059999999999999
+total_cpu_overhead: 3.16
+total execution cores: 6.0
+overhead ratio, cpu: 0.5266666666666667
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 48
+memory for eval (GB): 96.0
+execs: 5
+remaining_cpu: 32.81
+remaining_mem: 3.5
+total_cpu_overhead: 5.19
+total_mem_overhead: 12.5
+total_cpu_overhead: 5.19
+total execution cores: 10.0
+overhead ratio, cpu: 0.519
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 72
+memory for eval (GB): 144.0
+execs: 7
+remaining_cpu: 50.75
+remaining_mem: 15.259999999999991
+total_cpu_overhead: 7.25
+total_mem_overhead: 16.740000000000002
+total_cpu_overhead: 7.25
+total execution cores: 14.0
+overhead ratio, cpu: 0.5178571428571429
+<class 'numpy.float64'>
+<class 'numpy.float64'>
+<class 'float'>
+<class 'float'>
+core count for eval: 96
+memory for eval (GB): 192.0
+execs: 10
+remaining_cpu: 65.69
+remaining_mem: 11.300000000000011
+total_cpu_overhead: 10.31
+total_mem_overhead: 20.7
+total_cpu_overhead: 10.31
+total execution cores: 20.0
+overhead ratio, cpu: 0.5155000000000001
